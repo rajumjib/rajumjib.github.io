@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## About Jahirul Islam Bhuiyan
 
-You can use the [editor on GitHub](https://github.com/rajumjib/rajumjib.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+13+ years experienced in Enterprise Product Development and Specialized in Banking, Trade Finance, Microfinance, Real Estate, Document Management, ERP, CMS, Utility Tools development
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Linked In](https://bd.linkedin.com/in/jahirul-islam-bhuiyan-7a143036)
+[UpWork](https://www.upwork.com/freelancers/~01eb0c18e2168a69b6)
+[Microsoft Virtual Academy](https://www.microsoftvirtualacademy.com/Profile.aspx?alias=1041778)
 
-### Markdown
+[Stack Over Flow](http://stackoverflow.com/users/3566771/jahirul-islam-bhuiyan)
+[Stack Exchange](http://stackexchange.com/users/4373030/jahirul-islam-bhuiyan)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Google Plus](https://plus.google.com/+MdJahirulIslamBhuiyanRaju)
+[Face Book](https://www.facebook.com/rajumjib)
+
+[Git Hub](https://github.com/rajumjib)
+[Bit Bucket](https://bitbucket.org/rajumjib)
+
+### Websites
+
+[Profile](http://www.online4help.org/)
+[Apps](http://app.online4help.org/)
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+C# Asp.Net MVC Reflection LINQ 
+jQuery AngularJS Bootstrap HTML 5 
+MSSQL SSRS Oracle 
+Azura Service 
+Web API RESTful API 
+Cristal Report Jesper Report 
+Java Spring MVC Hibernate JPA 
+NUnit VSUnit JUnit Mockito 
+WinJS 
+Windows Mobile App Android 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Blogs
 
-### Jekyll Themes
+Few [demonstrations](https://rajumjib.github.io/writing/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rajumjib/rajumjib.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Slides
 
-### Support or Contact
+Few [demonstrations](https://rajumjib.github.io/presentations/)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Notes
+
+Few [notes](https://rajumjib.github.io/notes/)
+### Contact
+
+ Southtech Limited
+ Uttara, Dhaka
+ **+88 019 14292121**  
+
+ Email
+ 0nline4help@[g****.com](https://gmail.com) 
