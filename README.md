@@ -16,7 +16,7 @@
 [Bit Bucket](https://bitbucket.org/rajumjib)
 
 ```markdown
-
+# skills & tags
 C#, Asp.Net, MVC, Reflection, LINQ, 
 jQuery, AngularJS, Bootstrap, HTML 5 
 MSSQL, SSRS, Oracle 
@@ -45,7 +45,7 @@ Few [blogs](https://rajumjib.github.io/writing/)
 
 Few [demonstrations](https://rajumjib.github.io/presentations/)
 
-### Notes
+### ToDo & Text
 
 Few [notes](https://rajumjib.github.io/notes/)
 
