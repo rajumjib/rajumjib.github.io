@@ -10,7 +10,7 @@ data_dir            : ./writing/_data
 includes_dir        : ./writing/_includes
 
 # Site
-name: 'Page of Jahirul Islam'
+name: 'Jahirul Islam Bhuiyan'
 description: 'Welcome to page of Md. Jahirul Islam Bhuiyan'
 logo: 'writing/assets/images/logo.png'
 favicon: 'writing/assets/images/logo.png'
