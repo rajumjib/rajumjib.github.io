@@ -3,7 +3,7 @@ theme: jekyll-theme-architect
 # Where things are
 source              : ./writing
 destination         : ./writing/_site
-collections_dir     : ./writing
+collections_dir     : .
 plugins_dir         : ./writing/_plugins
 layouts_dir         : ./writing/_layouts
 data_dir            : ./writing/_data
