@@ -1,1 +1,10 @@
 theme: jekyll-theme-architect
+
+# Where things are
+source              : .
+destination         : ./writing/_site
+collections_dir     : ./writing
+plugins_dir         : ./writing/_plugins
+layouts_dir         : ./writing/_layouts
+data_dir            : ./writing/_data
+includes_dir        : ./writing/_includes
