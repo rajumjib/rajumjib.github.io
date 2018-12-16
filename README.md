@@ -1,7 +1,12 @@
+---
+title: Welcome to Jahirul Islam's page(Git)
+---
 
 ## About Jahirul Islam Bhuiyan
 
 13+ years experienced in Enterprise Product Development and Specialized in Banking, Trade Finance, Microfinance, Real Estate, Document Management, ERP, CMS, Utility Tools development
+
+### Find me @
 
 [Linked In](https://bd.linkedin.com/in/jahirul-islam-bhuiyan-7a143036),
 [UpWork](https://www.upwork.com/freelancers/~01eb0c18e2168a69b6),
