@@ -1,6 +1,6 @@
 ---
-title: "AboutMe"
-permalink: "/writing/aboutme.html"
+title: "About"
+permalink: "/writing/about.html"
 ---
 
 Hi, guys! I am Jahirul Islam Bhuiyan. I am a Developer & Freelancer. My professional journy has started from 2006. I have experince to work several projects of hetaroinious types. Here are some of them:
