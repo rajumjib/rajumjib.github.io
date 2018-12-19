@@ -19,8 +19,8 @@ avatar: 'writing/assets/images/sal.jpg'
 disqus: 'rajumjib'
 email: '0nline4help@gmail.com'
 
-include: ["writing/_pages"]
-permalink: /:title/
+include: ["./writing/_pages"]
+permalink: /:title:output_ext
 
 # Plugins
 plugins: 
