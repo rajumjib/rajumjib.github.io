@@ -1,6 +1,3 @@
----
-title: Welcome to Jahirul Islam's page(Git)
----
 
 ## About Jahirul Islam Bhuiyan
 
