@@ -1,35 +1,66 @@
 ---
 title: "About"
-permalink: "/about.html"
+permalink: "/writing/about.html"
 image: "/assets/images/screenshot.jpg"
 ---
 
-Hi, guys! The website you are previewing is a demonstration for Pintereso Jekyll theme and it is hosted on Github pages. There are various ways you can use Pintereso with your Jekyll website. Here are some of them:
+Hi, guys! I am Jahirul Islam Bhuiyan. I am a Developer & Freelancer. My professional journy has started from 2006. I have experince to work several projects of hetaroinious types. Here are some of them:
 
-- blogging
-- curated resources
-- affiliate marketing
-- resume
-- portfolio
-- photography
+- Ascend Financials
+  Banking & Microfinance
+  Java & Spring MVC & Jasper Report & MSSQL & Oracle
 
-**Features**
+- Trading Service and Analyzer
+  Analysis Application for Trading
+  Asp.Net & Windows Azure & AngularJS & Web Socket & SignalR & NodeJS 
 
-- 100% Github Pages Compatibility
-- Bootstrap 4.x
-- SEO Integration
-- Search
-- Categories
-- Prev/Next Post
-- Pagination
-- Disqus Comments
-- Sitemap
-- Feed
-- Formspree Contact Form
-- Pinterest, AddThis, Google Analytics
-- Font Awesome 5+
-- Cookie Consent & Privacy Policy
+- RIT Report
+  Central Bank Report (Interface with Temenos)
+  C# & ASP.Net MVC 3 & MSSQL & Oracle
 
-Made with <i class="fa fa-heart text-danger"></i> by Sal @wowthemesnet. Thanks for your <a target="_blank" href="https://www.wowthemes.net/freebies-license/">support</a>!
+- Central Bank Report (CBR)
+  Central Bank Report (Interface with Temenos)
+  C# & ASP.Net & Cristal Report & MSSQL & Oracle
 
-<a class="btn btn-danger" href="https://github.com/wowthemesnet/template-pintereso-bootstrap-jekyll/archive/master.zip"><i class="fa fa-download"></i> pintereso.zip</a> <a target="_blank" class="btn btn-warning" href="https://www.buymeacoffee.com/sal"><i class="fa fa-coffee"></i> Buy me a coffee?</a>
+- Flora Bank UBS
+  Centralize Banking Solution
+  C# & ASP.Net & Cristal Report & MSSQL & Oracle
+  for Trust Bank Ltd & Mutual Trust Bank & Bangladesh Krishi Bank & National Credit and Commerce Bank
+
+- Trade Finance
+  Centralize Foreign Exchange Application
+  FoxPro & MSSQL
+  for Trust Bank Ltd & Mutual Trust Bank & National Credit and Commerce Bank
+
+
+**Language & Tools that I know**
+
+- C# 
+- Asp.Net MVC 
+- jQuery 
+- AngularJS 
+- MSSQL 
+- SSRS 
+- Azura Service 
+- Reflection 
+- LINQ 
+- Web API 
+- RESTful API 
+- Oracle 
+- Cristal Report 
+- NUnit 
+- VSUnit 
+- Java Spring MVC 
+- Hibernate 
+- JPA 
+- JUnit 
+- Mockito 
+- Bootstrap 
+- HTML 5 
+- Jesper Report 
+- WinJS 
+- Windows Mobile App 
+- Android 
+etc. 
+
+<a class="btn btn-danger" href="https://github.com/rajumjib?tab=repositories"><i class="fa fa-download"></i> Public Repositories</a> <a target="_blank" class="btn btn-warning" href="https://www.buymeacoffee.com/rajumjib"><i class="fa fa-coffee"></i> Buy me a coffee?</a>
