@@ -1,3 +1,4 @@
+
 ## About Jahirul Islam Bhuiyan
 
 13+ years experienced in Enterprise Product Development and Specialized in Banking, Trade Finance, Microfinance, Real Estate, Document Management, ERP, CMS, Utility Tools development
@@ -34,9 +35,9 @@ Windows Mobile App, Android
 
 ### Websites
 
-[Profile](http://www.online4help.org/)
+[Profile](http://owner.allnewsservice.com/)
 
-[Apps](http://app.online4help.org/)
+[Apps](http://app.allnewsservice.com/)
 
 
 ### Blogs
