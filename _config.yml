@@ -1,7 +1,7 @@
 #theme: jekyll-theme-architect
 
 # Where things are
-source              : ./writing
+source              : writing
 destination         : ./writing/_site
 collections_dir     : ./writing/_collections
 plugins_dir         : ./writing/_plugins

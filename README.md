@@ -5,7 +5,7 @@
 
 ### Find me @
 
-[Linked In](https://bd.linkedin.com/in/jahirul-islam-bhuiyan-7a143036),
+[Linked In](https://www.linkedin.com/in/jahirul-islam-bhuiyan),
 [UpWork](https://www.upwork.com/freelancers/~01eb0c18e2168a69b6),
 [Microsoft Virtual Academy](https://www.microsoftvirtualacademy.com/Profile.aspx?alias=1041778)
 
